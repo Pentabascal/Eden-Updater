@@ -4,4 +4,4 @@
 
 ## ¿COMO SE USA?
 
-### Dentro del programa suba la carpeta en donde tenga su emulador Eden y presione Actualizar en un rato ya se habra actualizado el emulador conservando los datos del emulador
+### Dentro del programa suba la carpeta en donde tenga su emulador Eden y presione Actualizar, en un rato ya se habra actualizado el emulador conservando los datos del emulador
